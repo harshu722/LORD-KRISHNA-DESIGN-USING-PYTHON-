@@ -5,7 +5,7 @@ import turtle
 
 wn=turtle.Screen()         
 wn.setup(768,768)         
-wn.title("Sharp Art Coding Creations")
+wn.title("Saharsh coding creations")
 wn.bgcolor("black")
 
 
